@@ -11,6 +11,10 @@
     padding: 0 30px;
 }
 
+.important {
+    font-weight: bold;
+}
+
 .goldenrod {
     background-color: goldenrod;
 }
